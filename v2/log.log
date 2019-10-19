@@ -1,0 +1,643 @@
+INFO:root:INFO : --> PROCESS EXTRACTION START @ 2019-10-19 11:12:44.422934
+INFO:root:INFO : START PROCESSING EXTRACTION nesmatv @ 2019-10-19 11:12:44.433288
+INFO:root:INFO : START PROCESSING EXTRACTION jawhrafm @ 2019-10-19 11:12:44.434274
+INFO:root:INFO : START PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 11:12:44.434274
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 11:12:46.869859
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 11:12:46.926868
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 11:12:46.926868
+INFO:root:One post: 5daae19ee1d96ad4ed7cc7a7
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7a8
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7a9
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7aa
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ab
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ac
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ad
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ae
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7af
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b0
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b1
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b2
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b3
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b4
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b5
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b6
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b7
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b8
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7b9
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ba
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7bb
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7bc
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7bd
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7be
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7bf
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c0
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c1
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c2
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c3
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c4
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c5
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c6
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c7
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c8
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7c9
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ca
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7cb
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7cc
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7cd
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7ce
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7cf
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7d0
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7d1
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7d2
+INFO:root:One post: 5daae19fe1d96ad4ed7cc7d3
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 11:12:47.237300
+INFO:root:INFO : FINISH PROCESSING EXTRACTION jawhrafm @ 2019-10-19 11:12:47.237300
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 11:12:50.415266
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 11:12:50.657038
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 11:12:50.657038
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7d5
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7d6
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7d7
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7d8
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7d9
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7da
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7db
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7dc
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7dd
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7de
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7df
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e0
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e1
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e2
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e3
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e4
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e5
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e6
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e7
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e8
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7e9
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7ea
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7eb
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7ec
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7ed
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7ee
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7ef
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7f0
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7f1
+INFO:root:One post: 5daae1a2e1d96ad4ed7cc7f2
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 11:12:50.680973
+INFO:root:INFO : FINISH PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 11:12:50.680973
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 11:13:15.049771
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 11:13:15.057714
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 11:13:15.057714
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7f4
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7f5
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7f6
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7f7
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7f8
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7f9
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7fa
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7fb
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7fc
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7fd
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7fe
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc7ff
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc800
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc801
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc802
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc803
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc804
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc805
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc806
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc807
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc808
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc809
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc80a
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc80b
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc80c
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc80d
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc80e
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc80f
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc810
+INFO:root:One post: 5daae1bbe1d96ad4ed7cc811
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 11:13:15.078659
+INFO:root:INFO : FINISH PROCESSING EXTRACTION nesmatv @ 2019-10-19 11:13:15.079654
+INFO:root:INFO : --> PROCESS EXTRACTION START @ 2019-10-19 11:30:49.627696
+INFO:root:INFO : START PROCESSING EXTRACTION nesmatv @ 2019-10-19 11:30:49.627696
+INFO:root:INFO : START PROCESSING EXTRACTION jawhrafm @ 2019-10-19 11:30:49.628692
+INFO:root:INFO : START PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 11:30:49.628692
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 11:30:50.331592
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 11:30:50.345669
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 11:30:50.345669
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 11:30:50.867464
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 11:30:50.936523
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 11:30:50.936523
+INFO:root:One post: 5daae5dae84482783e8fd13b
+INFO:root:One post: 5daae5dae84482783e8fd13d
+INFO:root:One post: 5daae5dae84482783e8fd13e
+INFO:root:One post: 5daae5dae84482783e8fd13f
+INFO:root:One post: 5daae5dae84482783e8fd140
+INFO:root:One post: 5daae5dae84482783e8fd141
+INFO:root:One post: 5daae5dae84482783e8fd142
+INFO:root:One post: 5daae5dae84482783e8fd143
+INFO:root:One post: 5daae5dae84482783e8fd144
+INFO:root:One post: 5daae5dae84482783e8fd145
+INFO:root:One post: 5daae5dae84482783e8fd146
+INFO:root:One post: 5daae5dae84482783e8fd147
+INFO:root:One post: 5daae5dae84482783e8fd148
+INFO:root:One post: 5daae5dae84482783e8fd149
+INFO:root:One post: 5daae5dae84482783e8fd14a
+INFO:root:One post: 5daae5dae84482783e8fd14b
+INFO:root:One post: 5daae5dae84482783e8fd14c
+INFO:root:One post: 5daae5dae84482783e8fd14d
+INFO:root:One post: 5daae5dae84482783e8fd14e
+INFO:root:One post: 5daae5dae84482783e8fd14f
+INFO:root:One post: 5daae5dae84482783e8fd150
+INFO:root:One post: 5daae5dae84482783e8fd151
+INFO:root:One post: 5daae5dae84482783e8fd152
+INFO:root:One post: 5daae5dae84482783e8fd153
+INFO:root:One post: 5daae5dae84482783e8fd154
+INFO:root:One post: 5daae5dae84482783e8fd155
+INFO:root:One post: 5daae5dae84482783e8fd156
+INFO:root:One post: 5daae5dae84482783e8fd157
+INFO:root:One post: 5daae5dae84482783e8fd158
+INFO:root:One post: 5daae5dae84482783e8fd159
+INFO:root:One post: 5daae5dae84482783e8fd15a
+INFO:root:One post: 5daae5dae84482783e8fd15b
+INFO:root:One post: 5daae5dae84482783e8fd15c
+INFO:root:One post: 5daae5dae84482783e8fd15d
+INFO:root:One post: 5daae5dae84482783e8fd15e
+INFO:root:One post: 5daae5dae84482783e8fd15f
+INFO:root:One post: 5daae5dae84482783e8fd160
+INFO:root:One post: 5daae5dae84482783e8fd161
+INFO:root:One post: 5daae5dae84482783e8fd162
+INFO:root:One post: 5daae5dae84482783e8fd163
+INFO:root:One post: 5daae5dae84482783e8fd164
+INFO:root:One post: 5daae5dae84482783e8fd165
+INFO:root:One post: 5daae5dae84482783e8fd166
+INFO:root:One post: 5daae5dae84482783e8fd167
+INFO:root:One post: 5daae5dae84482783e8fd168
+INFO:root:One post: 5daae5dae84482783e8fd169
+INFO:root:One post: 5daae5dae84482783e8fd16a
+INFO:root:One post: 5daae5dae84482783e8fd16b
+INFO:root:One post: 5daae5dae84482783e8fd16c
+INFO:root:One post: 5daae5dae84482783e8fd16d
+INFO:root:One post: 5daae5dae84482783e8fd16e
+INFO:root:One post: 5daae5dae84482783e8fd16f
+INFO:root:One post: 5daae5dae84482783e8fd170
+INFO:root:One post: 5daae5dae84482783e8fd171
+INFO:root:One post: 5daae5dae84482783e8fd172
+INFO:root:One post: 5daae5dae84482783e8fd173
+INFO:root:One post: 5daae5dae84482783e8fd174
+INFO:root:One post: 5daae5dae84482783e8fd175
+INFO:root:One post: 5daae5dae84482783e8fd176
+INFO:root:One post: 5daae5dae84482783e8fd177
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 11:30:50.969437
+INFO:root:One post: 5daae5dae84482783e8fd178
+INFO:root:INFO : FINISH PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 11:30:50.970444
+INFO:root:One post: 5daae5dae84482783e8fd179
+INFO:root:One post: 5daae5dae84482783e8fd17a
+INFO:root:One post: 5daae5dae84482783e8fd17b
+INFO:root:One post: 5daae5dae84482783e8fd17c
+INFO:root:One post: 5daae5dae84482783e8fd17d
+INFO:root:One post: 5daae5dae84482783e8fd17e
+INFO:root:One post: 5daae5dae84482783e8fd17f
+INFO:root:One post: 5daae5dae84482783e8fd180
+INFO:root:One post: 5daae5dae84482783e8fd181
+INFO:root:One post: 5daae5dae84482783e8fd182
+INFO:root:One post: 5daae5dae84482783e8fd183
+INFO:root:One post: 5daae5dae84482783e8fd184
+INFO:root:One post: 5daae5dae84482783e8fd185
+INFO:root:One post: 5daae5dae84482783e8fd186
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 11:30:50.978410
+INFO:root:INFO : FINISH PROCESSING EXTRACTION jawhrafm @ 2019-10-19 11:30:50.978410
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 11:31:22.664240
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 11:31:22.670223
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 11:31:22.670223
+INFO:root:One post: 5daae5fae84482783e8fd188
+INFO:root:One post: 5daae5fae84482783e8fd189
+INFO:root:One post: 5daae5fae84482783e8fd18a
+INFO:root:One post: 5daae5fae84482783e8fd18b
+INFO:root:One post: 5daae5fae84482783e8fd18c
+INFO:root:One post: 5daae5fae84482783e8fd18d
+INFO:root:One post: 5daae5fae84482783e8fd18e
+INFO:root:One post: 5daae5fae84482783e8fd18f
+INFO:root:One post: 5daae5fae84482783e8fd190
+INFO:root:One post: 5daae5fae84482783e8fd191
+INFO:root:One post: 5daae5fae84482783e8fd192
+INFO:root:One post: 5daae5fae84482783e8fd193
+INFO:root:One post: 5daae5fae84482783e8fd194
+INFO:root:One post: 5daae5fae84482783e8fd195
+INFO:root:One post: 5daae5fae84482783e8fd196
+INFO:root:One post: 5daae5fae84482783e8fd197
+INFO:root:One post: 5daae5fae84482783e8fd198
+INFO:root:One post: 5daae5fae84482783e8fd199
+INFO:root:One post: 5daae5fae84482783e8fd19a
+INFO:root:One post: 5daae5fae84482783e8fd19b
+INFO:root:One post: 5daae5fae84482783e8fd19c
+INFO:root:One post: 5daae5fae84482783e8fd19d
+INFO:root:One post: 5daae5fae84482783e8fd19e
+INFO:root:One post: 5daae5fae84482783e8fd19f
+INFO:root:One post: 5daae5fae84482783e8fd1a0
+INFO:root:One post: 5daae5fae84482783e8fd1a1
+INFO:root:One post: 5daae5fae84482783e8fd1a2
+INFO:root:One post: 5daae5fae84482783e8fd1a3
+INFO:root:One post: 5daae5fae84482783e8fd1a4
+INFO:root:One post: 5daae5fae84482783e8fd1a5
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 11:31:22.688213
+INFO:root:INFO : FINISH PROCESSING EXTRACTION nesmatv @ 2019-10-19 11:31:22.688213
+INFO:root:INFO : --> PROCESS EXTRACTION START @ 2019-10-19 15:23:28.356011
+INFO:root:INFO : START PROCESSING EXTRACTION nesmatv @ 2019-10-19 15:23:28.356011
+INFO:root:INFO : START PROCESSING EXTRACTION jawhrafm @ 2019-10-19 15:23:28.358039
+INFO:root:INFO : START PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 15:23:28.360000
+INFO:root:INFO : START PROCESSING EXTRACTION sub_mosaiquefm @ 2019-10-19 15:23:28.361994
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 15:23:30.350965
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 15:23:30.377893
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 15:23:30.377893
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 15:23:30.378889
+INFO:root:One post: 5dab1c623df6631609237722
+INFO:root:One post: 5dab1c623df6631609237723
+INFO:root:One post: 5dab1c623df6631609237724
+INFO:root:One post: 5dab1c623df6631609237725
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 15:23:30.383880
+INFO:root:INFO : FINISH PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 15:23:30.383880
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 15:23:30.389862
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 15:23:30.389862
+INFO:root:One post: 5dab1c623df6631609237726
+INFO:root:One post: 5dab1c623df6631609237727
+INFO:root:One post: 5dab1c623df6631609237728
+INFO:root:One post: 5dab1c623df6631609237729
+INFO:root:One post: 5dab1c623df663160923772a
+INFO:root:One post: 5dab1c623df663160923772b
+INFO:root:One post: 5dab1c623df663160923772c
+INFO:root:One post: 5dab1c623df663160923772d
+INFO:root:One post: 5dab1c623df663160923772e
+INFO:root:One post: 5dab1c623df663160923772f
+INFO:root:One post: 5dab1c623df6631609237730
+INFO:root:One post: 5dab1c623df6631609237731
+INFO:root:One post: 5dab1c623df6631609237732
+INFO:root:One post: 5dab1c623df6631609237733
+INFO:root:One post: 5dab1c623df6631609237734
+INFO:root:One post: 5dab1c623df6631609237735
+INFO:root:One post: 5dab1c623df6631609237736
+INFO:root:One post: 5dab1c623df6631609237737
+INFO:root:One post: 5dab1c623df6631609237738
+INFO:root:One post: 5dab1c623df6631609237739
+INFO:root:One post: 5dab1c623df663160923773a
+INFO:root:One post: 5dab1c623df663160923773b
+INFO:root:One post: 5dab1c623df663160923773c
+INFO:root:One post: 5dab1c623df663160923773d
+INFO:root:One post: 5dab1c623df663160923773e
+INFO:root:One post: 5dab1c623df663160923773f
+INFO:root:One post: 5dab1c623df6631609237740
+INFO:root:One post: 5dab1c623df6631609237741
+INFO:root:One post: 5dab1c623df6631609237742
+INFO:root:One post: 5dab1c623df6631609237743
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 15:23:30.423772
+INFO:root:INFO : FINISH PROCESSING EXTRACTION sub_mosaiquefm @ 2019-10-19 15:23:30.423772
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 15:23:31.201200
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 15:23:31.215348
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 15:23:31.215348
+INFO:root:One post: 5dab1c633df6631609237745
+INFO:root:One post: 5dab1c633df6631609237746
+INFO:root:One post: 5dab1c633df6631609237747
+INFO:root:One post: 5dab1c633df6631609237748
+INFO:root:One post: 5dab1c633df6631609237749
+INFO:root:One post: 5dab1c633df663160923774a
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 15:23:31.219336
+INFO:root:INFO : FINISH PROCESSING EXTRACTION jawhrafm @ 2019-10-19 15:23:31.219336
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 15:24:03.738117
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 15:24:03.752130
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 15:24:03.752130
+INFO:root:One post: 5dab1c833df663160923774c
+INFO:root:One post: 5dab1c833df663160923774d
+INFO:root:One post: 5dab1c833df663160923774e
+INFO:root:One post: 5dab1c833df663160923774f
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 15:24:03.755121
+INFO:root:INFO : FINISH PROCESSING EXTRACTION nesmatv @ 2019-10-19 15:24:03.755121
+INFO:root:INFO : --> PROCESS EXTRACTION START @ 2019-10-19 19:40:02.904864
+INFO:root:INFO : START PROCESSING EXTRACTION nesmatv @ 2019-10-19 19:40:02.905863
+INFO:root:INFO : START PROCESSING EXTRACTION jawhrafm @ 2019-10-19 19:40:02.906860
+INFO:root:INFO : START PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 19:40:02.908885
+INFO:root:INFO : START PROCESSING EXTRACTION sub_mosaiquefm @ 2019-10-19 19:40:02.909852
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 19:40:04.943541
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 19:40:04.950523
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 19:40:04.951521
+INFO:root:One post: 5dab5884d32ecd7f2c194a1f
+INFO:root:One post: 5dab5884d32ecd7f2c194a20
+INFO:root:One post: 5dab5884d32ecd7f2c194a21
+INFO:root:One post: 5dab5884d32ecd7f2c194a22
+INFO:root:One post: 5dab5884d32ecd7f2c194a23
+INFO:root:One post: 5dab5884d32ecd7f2c194a24
+INFO:root:One post: 5dab5884d32ecd7f2c194a25
+INFO:root:One post: 5dab5884d32ecd7f2c194a26
+INFO:root:One post: 5dab5884d32ecd7f2c194a27
+INFO:root:One post: 5dab5884d32ecd7f2c194a28
+INFO:root:One post: 5dab5884d32ecd7f2c194a29
+INFO:root:One post: 5dab5884d32ecd7f2c194a2a
+INFO:root:One post: 5dab5884d32ecd7f2c194a2b
+INFO:root:One post: 5dab5884d32ecd7f2c194a2c
+INFO:root:One post: 5dab5884d32ecd7f2c194a2d
+INFO:root:One post: 5dab5884d32ecd7f2c194a2e
+INFO:root:One post: 5dab5884d32ecd7f2c194a2f
+INFO:root:One post: 5dab5884d32ecd7f2c194a30
+INFO:root:One post: 5dab5884d32ecd7f2c194a31
+INFO:root:One post: 5dab5884d32ecd7f2c194a32
+INFO:root:One post: 5dab5884d32ecd7f2c194a33
+INFO:root:One post: 5dab5884d32ecd7f2c194a34
+INFO:root:One post: 5dab5884d32ecd7f2c194a35
+INFO:root:One post: 5dab5884d32ecd7f2c194a36
+INFO:root:One post: 5dab5884d32ecd7f2c194a37
+INFO:root:One post: 5dab5884d32ecd7f2c194a38
+INFO:root:One post: 5dab5884d32ecd7f2c194a39
+INFO:root:One post: 5dab5884d32ecd7f2c194a3a
+INFO:root:One post: 5dab5884d32ecd7f2c194a3b
+INFO:root:One post: 5dab5884d32ecd7f2c194a3c
+INFO:root:One post: 5dab5884d32ecd7f2c194a3d
+INFO:root:One post: 5dab5884d32ecd7f2c194a3e
+INFO:root:One post: 5dab5884d32ecd7f2c194a3f
+INFO:root:One post: 5dab5884d32ecd7f2c194a40
+INFO:root:One post: 5dab5884d32ecd7f2c194a41
+INFO:root:One post: 5dab5884d32ecd7f2c194a42
+INFO:root:One post: 5dab5884d32ecd7f2c194a43
+INFO:root:One post: 5dab5884d32ecd7f2c194a44
+INFO:root:One post: 5dab5884d32ecd7f2c194a45
+INFO:root:One post: 5dab5884d32ecd7f2c194a46
+INFO:root:One post: 5dab5884d32ecd7f2c194a47
+INFO:root:One post: 5dab5884d32ecd7f2c194a48
+INFO:root:One post: 5dab5884d32ecd7f2c194a49
+INFO:root:One post: 5dab5884d32ecd7f2c194a4a
+INFO:root:One post: 5dab5884d32ecd7f2c194a4b
+INFO:root:One post: 5dab5884d32ecd7f2c194a4c
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 19:40:04.985429
+INFO:root:INFO : FINISH PROCESSING EXTRACTION mosaiquefm @ 2019-10-19 19:40:04.985429
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 19:40:06.711697
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 19:40:06.733832
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 19:40:06.733832
+INFO:root:One post: 5dab5886d32ecd7f2c194a4e
+INFO:root:One post: 5dab5886d32ecd7f2c194a4f
+INFO:root:One post: 5dab5886d32ecd7f2c194a50
+INFO:root:One post: 5dab5886d32ecd7f2c194a51
+INFO:root:One post: 5dab5886d32ecd7f2c194a52
+INFO:root:One post: 5dab5886d32ecd7f2c194a53
+INFO:root:One post: 5dab5886d32ecd7f2c194a54
+INFO:root:One post: 5dab5886d32ecd7f2c194a55
+INFO:root:One post: 5dab5886d32ecd7f2c194a56
+INFO:root:One post: 5dab5886d32ecd7f2c194a57
+INFO:root:One post: 5dab5886d32ecd7f2c194a58
+INFO:root:One post: 5dab5886d32ecd7f2c194a59
+INFO:root:One post: 5dab5886d32ecd7f2c194a5a
+INFO:root:One post: 5dab5886d32ecd7f2c194a5b
+INFO:root:One post: 5dab5886d32ecd7f2c194a5c
+INFO:root:One post: 5dab5886d32ecd7f2c194a5d
+INFO:root:One post: 5dab5886d32ecd7f2c194a5e
+INFO:root:One post: 5dab5886d32ecd7f2c194a5f
+INFO:root:One post: 5dab5886d32ecd7f2c194a60
+INFO:root:One post: 5dab5886d32ecd7f2c194a61
+INFO:root:One post: 5dab5886d32ecd7f2c194a62
+INFO:root:One post: 5dab5886d32ecd7f2c194a63
+INFO:root:One post: 5dab5886d32ecd7f2c194a64
+INFO:root:One post: 5dab5886d32ecd7f2c194a65
+INFO:root:One post: 5dab5886d32ecd7f2c194a66
+INFO:root:One post: 5dab5886d32ecd7f2c194a67
+INFO:root:One post: 5dab5886d32ecd7f2c194a68
+INFO:root:One post: 5dab5886d32ecd7f2c194a69
+INFO:root:One post: 5dab5886d32ecd7f2c194a6a
+INFO:root:One post: 5dab5886d32ecd7f2c194a6b
+INFO:root:One post: 5dab5886d32ecd7f2c194a6c
+INFO:root:One post: 5dab5886d32ecd7f2c194a6d
+INFO:root:One post: 5dab5886d32ecd7f2c194a6e
+INFO:root:One post: 5dab5886d32ecd7f2c194a6f
+INFO:root:One post: 5dab5886d32ecd7f2c194a70
+INFO:root:One post: 5dab5886d32ecd7f2c194a71
+INFO:root:One post: 5dab5886d32ecd7f2c194a72
+INFO:root:One post: 5dab5886d32ecd7f2c194a73
+INFO:root:One post: 5dab5886d32ecd7f2c194a74
+INFO:root:One post: 5dab5886d32ecd7f2c194a75
+INFO:root:One post: 5dab5886d32ecd7f2c194a76
+INFO:root:One post: 5dab5886d32ecd7f2c194a77
+INFO:root:One post: 5dab5886d32ecd7f2c194a78
+INFO:root:One post: 5dab5886d32ecd7f2c194a79
+INFO:root:One post: 5dab5886d32ecd7f2c194a7a
+INFO:root:One post: 5dab5886d32ecd7f2c194a7b
+INFO:root:One post: 5dab5886d32ecd7f2c194a7c
+INFO:root:One post: 5dab5886d32ecd7f2c194a7d
+INFO:root:One post: 5dab5886d32ecd7f2c194a7e
+INFO:root:One post: 5dab5886d32ecd7f2c194a7f
+INFO:root:One post: 5dab5886d32ecd7f2c194a80
+INFO:root:One post: 5dab5886d32ecd7f2c194a81
+INFO:root:One post: 5dab5886d32ecd7f2c194a82
+INFO:root:One post: 5dab5886d32ecd7f2c194a83
+INFO:root:One post: 5dab5886d32ecd7f2c194a84
+INFO:root:One post: 5dab5886d32ecd7f2c194a85
+INFO:root:One post: 5dab5886d32ecd7f2c194a86
+INFO:root:One post: 5dab5886d32ecd7f2c194a87
+INFO:root:One post: 5dab5886d32ecd7f2c194a88
+INFO:root:One post: 5dab5886d32ecd7f2c194a89
+INFO:root:One post: 5dab5886d32ecd7f2c194a8a
+INFO:root:One post: 5dab5886d32ecd7f2c194a8b
+INFO:root:One post: 5dab5886d32ecd7f2c194a8c
+INFO:root:One post: 5dab5886d32ecd7f2c194a8d
+INFO:root:One post: 5dab5886d32ecd7f2c194a8e
+INFO:root:One post: 5dab5886d32ecd7f2c194a8f
+INFO:root:One post: 5dab5886d32ecd7f2c194a90
+INFO:root:One post: 5dab5886d32ecd7f2c194a91
+INFO:root:One post: 5dab5886d32ecd7f2c194a92
+INFO:root:One post: 5dab5886d32ecd7f2c194a93
+INFO:root:One post: 5dab5886d32ecd7f2c194a94
+INFO:root:One post: 5dab5886d32ecd7f2c194a95
+INFO:root:One post: 5dab5886d32ecd7f2c194a96
+INFO:root:One post: 5dab5886d32ecd7f2c194a97
+INFO:root:One post: 5dab5886d32ecd7f2c194a98
+INFO:root:One post: 5dab5886d32ecd7f2c194a99
+INFO:root:One post: 5dab5886d32ecd7f2c194a9a
+INFO:root:One post: 5dab5886d32ecd7f2c194a9b
+INFO:root:One post: 5dab5886d32ecd7f2c194a9c
+INFO:root:One post: 5dab5886d32ecd7f2c194a9d
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 19:40:06.777705
+INFO:root:INFO : FINISH PROCESSING EXTRACTION sub_mosaiquefm @ 2019-10-19 19:40:06.777705
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 19:40:12.882664
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 19:40:12.906576
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 19:40:12.907604
+INFO:root:One post: 5dab588cd32ecd7f2c194a9f
+INFO:root:One post: 5dab588cd32ecd7f2c194aa0
+INFO:root:One post: 5dab588cd32ecd7f2c194aa1
+INFO:root:One post: 5dab588cd32ecd7f2c194aa2
+INFO:root:One post: 5dab588cd32ecd7f2c194aa3
+INFO:root:One post: 5dab588cd32ecd7f2c194aa4
+INFO:root:One post: 5dab588cd32ecd7f2c194aa5
+INFO:root:One post: 5dab588cd32ecd7f2c194aa6
+INFO:root:One post: 5dab588cd32ecd7f2c194aa7
+INFO:root:One post: 5dab588cd32ecd7f2c194aa8
+INFO:root:One post: 5dab588cd32ecd7f2c194aa9
+INFO:root:One post: 5dab588cd32ecd7f2c194aaa
+INFO:root:One post: 5dab588cd32ecd7f2c194aab
+INFO:root:One post: 5dab588cd32ecd7f2c194aac
+INFO:root:One post: 5dab588cd32ecd7f2c194aad
+INFO:root:One post: 5dab588cd32ecd7f2c194aae
+INFO:root:One post: 5dab588cd32ecd7f2c194aaf
+INFO:root:One post: 5dab588cd32ecd7f2c194ab0
+INFO:root:One post: 5dab588cd32ecd7f2c194ab1
+INFO:root:One post: 5dab588cd32ecd7f2c194ab2
+INFO:root:One post: 5dab588cd32ecd7f2c194ab3
+INFO:root:One post: 5dab588cd32ecd7f2c194ab4
+INFO:root:One post: 5dab588cd32ecd7f2c194ab5
+INFO:root:One post: 5dab588cd32ecd7f2c194ab6
+INFO:root:One post: 5dab588cd32ecd7f2c194ab7
+INFO:root:One post: 5dab588cd32ecd7f2c194ab8
+INFO:root:One post: 5dab588cd32ecd7f2c194ab9
+INFO:root:One post: 5dab588cd32ecd7f2c194aba
+INFO:root:One post: 5dab588cd32ecd7f2c194abb
+INFO:root:One post: 5dab588cd32ecd7f2c194abc
+INFO:root:One post: 5dab588cd32ecd7f2c194abd
+INFO:root:One post: 5dab588cd32ecd7f2c194abe
+INFO:root:One post: 5dab588cd32ecd7f2c194abf
+INFO:root:One post: 5dab588cd32ecd7f2c194ac0
+INFO:root:One post: 5dab588cd32ecd7f2c194ac1
+INFO:root:One post: 5dab588cd32ecd7f2c194ac2
+INFO:root:One post: 5dab588cd32ecd7f2c194ac3
+INFO:root:One post: 5dab588cd32ecd7f2c194ac4
+INFO:root:One post: 5dab588cd32ecd7f2c194ac5
+INFO:root:One post: 5dab588cd32ecd7f2c194ac6
+INFO:root:One post: 5dab588cd32ecd7f2c194ac7
+INFO:root:One post: 5dab588cd32ecd7f2c194ac8
+INFO:root:One post: 5dab588cd32ecd7f2c194ac9
+INFO:root:One post: 5dab588cd32ecd7f2c194aca
+INFO:root:One post: 5dab588cd32ecd7f2c194acb
+INFO:root:One post: 5dab588cd32ecd7f2c194acc
+INFO:root:One post: 5dab588cd32ecd7f2c194acd
+INFO:root:One post: 5dab588cd32ecd7f2c194ace
+INFO:root:One post: 5dab588cd32ecd7f2c194acf
+INFO:root:One post: 5dab588cd32ecd7f2c194ad0
+INFO:root:One post: 5dab588cd32ecd7f2c194ad1
+INFO:root:One post: 5dab588cd32ecd7f2c194ad2
+INFO:root:One post: 5dab588cd32ecd7f2c194ad3
+INFO:root:One post: 5dab588cd32ecd7f2c194ad4
+INFO:root:One post: 5dab588cd32ecd7f2c194ad5
+INFO:root:One post: 5dab588cd32ecd7f2c194ad6
+INFO:root:One post: 5dab588cd32ecd7f2c194ad7
+INFO:root:One post: 5dab588cd32ecd7f2c194ad8
+INFO:root:One post: 5dab588cd32ecd7f2c194ad9
+INFO:root:One post: 5dab588cd32ecd7f2c194ada
+INFO:root:One post: 5dab588cd32ecd7f2c194adb
+INFO:root:One post: 5dab588cd32ecd7f2c194adc
+INFO:root:One post: 5dab588cd32ecd7f2c194add
+INFO:root:One post: 5dab588cd32ecd7f2c194ade
+INFO:root:One post: 5dab588cd32ecd7f2c194adf
+INFO:root:One post: 5dab588cd32ecd7f2c194ae0
+INFO:root:One post: 5dab588cd32ecd7f2c194ae1
+INFO:root:One post: 5dab588cd32ecd7f2c194ae2
+INFO:root:One post: 5dab588cd32ecd7f2c194ae3
+INFO:root:One post: 5dab588cd32ecd7f2c194ae4
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 19:40:12.946181
+INFO:root:INFO : FINISH PROCESSING EXTRACTION jawhrafm @ 2019-10-19 19:40:12.946181
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-19 19:41:58.872180
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-19 19:41:58.878270
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-19 19:41:58.878270
+INFO:root:One post: 5dab58f6d32ecd7f2c194ae6
+INFO:root:One post: 5dab58f6d32ecd7f2c194ae7
+INFO:root:One post: 5dab58f6d32ecd7f2c194ae8
+INFO:root:One post: 5dab58f6d32ecd7f2c194ae9
+INFO:root:One post: 5dab58f6d32ecd7f2c194aea
+INFO:root:One post: 5dab58f6d32ecd7f2c194aeb
+INFO:root:One post: 5dab58f6d32ecd7f2c194aec
+INFO:root:One post: 5dab58f6d32ecd7f2c194aed
+INFO:root:One post: 5dab58f6d32ecd7f2c194aee
+INFO:root:One post: 5dab58f6d32ecd7f2c194aef
+INFO:root:One post: 5dab58f6d32ecd7f2c194af0
+INFO:root:One post: 5dab58f6d32ecd7f2c194af1
+INFO:root:One post: 5dab58f6d32ecd7f2c194af2
+INFO:root:One post: 5dab58f6d32ecd7f2c194af3
+INFO:root:One post: 5dab58f6d32ecd7f2c194af4
+INFO:root:One post: 5dab58f6d32ecd7f2c194af5
+INFO:root:One post: 5dab58f6d32ecd7f2c194af6
+INFO:root:One post: 5dab58f6d32ecd7f2c194af7
+INFO:root:One post: 5dab58f6d32ecd7f2c194af8
+INFO:root:One post: 5dab58f6d32ecd7f2c194af9
+INFO:root:One post: 5dab58f6d32ecd7f2c194afa
+INFO:root:One post: 5dab58f6d32ecd7f2c194afb
+INFO:root:One post: 5dab58f6d32ecd7f2c194afc
+INFO:root:One post: 5dab58f6d32ecd7f2c194afd
+INFO:root:One post: 5dab58f6d32ecd7f2c194afe
+INFO:root:One post: 5dab58f6d32ecd7f2c194aff
+INFO:root:One post: 5dab58f6d32ecd7f2c194b00
+INFO:root:One post: 5dab58f6d32ecd7f2c194b01
+INFO:root:One post: 5dab58f6d32ecd7f2c194b02
+INFO:root:One post: 5dab58f6d32ecd7f2c194b03
+INFO:root:One post: 5dab58f6d32ecd7f2c194b04
+INFO:root:One post: 5dab58f6d32ecd7f2c194b05
+INFO:root:One post: 5dab58f6d32ecd7f2c194b06
+INFO:root:One post: 5dab58f6d32ecd7f2c194b07
+INFO:root:One post: 5dab58f6d32ecd7f2c194b08
+INFO:root:One post: 5dab58f6d32ecd7f2c194b09
+INFO:root:One post: 5dab58f6d32ecd7f2c194b0a
+INFO:root:One post: 5dab58f6d32ecd7f2c194b0b
+INFO:root:One post: 5dab58f6d32ecd7f2c194b0c
+INFO:root:One post: 5dab58f6d32ecd7f2c194b0d
+INFO:root:One post: 5dab58f6d32ecd7f2c194b0e
+INFO:root:One post: 5dab58f6d32ecd7f2c194b0f
+INFO:root:One post: 5dab58f6d32ecd7f2c194b10
+INFO:root:One post: 5dab58f6d32ecd7f2c194b11
+INFO:root:One post: 5dab58f6d32ecd7f2c194b12
+INFO:root:One post: 5dab58f6d32ecd7f2c194b13
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-19 19:41:58.906439
+INFO:root:INFO : FINISH PROCESSING EXTRACTION nesmatv @ 2019-10-19 19:41:58.906439
+INFO:root:INFO : --> PROCESS EXTRACTION START @ 2019-10-20 00:21:52.250251
+INFO:root:INFO : START PROCESSING EXTRACTION nesmatv @ 2019-10-20 00:21:52.267222
+INFO:root:INFO : START PROCESSING EXTRACTION jawhrafm @ 2019-10-20 00:21:52.269220
+INFO:root:INFO : START PROCESSING EXTRACTION mosaiquefm @ 2019-10-20 00:21:52.270249
+INFO:root:INFO : START PROCESSING EXTRACTION sub_mosaiquefm @ 2019-10-20 00:21:52.272212
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-20 00:21:53.676121
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-20 00:21:53.755907
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-20 00:21:53.755907
+INFO:root:One post: 5dab9a9180ede6d5dda7b341
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-20 00:21:53.762975
+INFO:root:INFO : FINISH PROCESSING EXTRACTION mosaiquefm @ 2019-10-20 00:21:53.763911
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-20 00:21:54.867633
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-20 00:21:54.876625
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-20 00:21:54.876625
+INFO:root:One post: 5dab9a9280ede6d5dda7b343
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-20 00:21:54.878605
+INFO:root:INFO : FINISH PROCESSING EXTRACTION jawhrafm @ 2019-10-20 00:21:54.879603
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-20 00:21:55.246926
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-20 00:21:55.261032
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-20 00:21:55.261032
+INFO:root:One post: 5dab9a9380ede6d5dda7b345
+INFO:root:One post: 5dab9a9380ede6d5dda7b346
+INFO:root:One post: 5dab9a9380ede6d5dda7b347
+INFO:root:One post: 5dab9a9380ede6d5dda7b348
+INFO:root:One post: 5dab9a9380ede6d5dda7b349
+INFO:root:One post: 5dab9a9380ede6d5dda7b34a
+INFO:root:One post: 5dab9a9380ede6d5dda7b34b
+INFO:root:One post: 5dab9a9380ede6d5dda7b34c
+INFO:root:One post: 5dab9a9380ede6d5dda7b34d
+INFO:root:One post: 5dab9a9380ede6d5dda7b34e
+INFO:root:One post: 5dab9a9380ede6d5dda7b34f
+INFO:root:One post: 5dab9a9380ede6d5dda7b350
+INFO:root:One post: 5dab9a9380ede6d5dda7b351
+INFO:root:One post: 5dab9a9380ede6d5dda7b352
+INFO:root:One post: 5dab9a9380ede6d5dda7b353
+INFO:root:One post: 5dab9a9380ede6d5dda7b354
+INFO:root:One post: 5dab9a9380ede6d5dda7b355
+INFO:root:One post: 5dab9a9380ede6d5dda7b356
+INFO:root:One post: 5dab9a9380ede6d5dda7b357
+INFO:root:One post: 5dab9a9380ede6d5dda7b358
+INFO:root:One post: 5dab9a9380ede6d5dda7b359
+INFO:root:One post: 5dab9a9380ede6d5dda7b35a
+INFO:root:One post: 5dab9a9380ede6d5dda7b35b
+INFO:root:One post: 5dab9a9380ede6d5dda7b35c
+INFO:root:One post: 5dab9a9380ede6d5dda7b35d
+INFO:root:One post: 5dab9a9380ede6d5dda7b35e
+INFO:root:One post: 5dab9a9380ede6d5dda7b35f
+INFO:root:One post: 5dab9a9380ede6d5dda7b360
+INFO:root:One post: 5dab9a9380ede6d5dda7b361
+INFO:root:One post: 5dab9a9380ede6d5dda7b362
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-20 00:21:55.280017
+INFO:root:INFO : FINISH PROCESSING EXTRACTION sub_mosaiquefm @ 2019-10-20 00:21:55.281010
+INFO:root:INFO : --> CONNECT TO DATABASE @ 2019-10-20 00:22:30.990407
+INFO:root:INFO : --> FETCH EXISTING DATA @ 2019-10-20 00:22:31.006641
+INFO:root:INFO : --> START INSERTING OBJECTS @ 2019-10-20 00:22:31.007672
+INFO:root:One post: 5dab9ab780ede6d5dda7b364
+INFO:root:One post: 5dab9ab780ede6d5dda7b365
+INFO:root:INFO : --> FINISH INSERTING OBJECTS @ 2019-10-20 00:22:31.009615
+INFO:root:INFO : FINISH PROCESSING EXTRACTION nesmatv @ 2019-10-20 00:22:31.010643
