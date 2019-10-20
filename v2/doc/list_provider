@@ -4,14 +4,15 @@ project pupose :
 - be able to have the latest news and trend and sentiment in real-time plotted by state.
 
 step 1 :
- - create a data base of all tunisian news
- - expose data throw api
- - ui
+    - create a data base of all tunisian news : done
+    - expose data throw api
+    - ui
 step 2 :
     - create a text classifier
     - classifier all data collected
     - plot data on graph
-
+step 3:
+    - opinion analysis
 list of providers :
 - mosaiquefm : national
 - jawhrafm : national
