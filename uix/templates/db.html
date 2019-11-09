@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="container">
+       <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Providers</th>
+      <th scope="col">ItemCount</th>
+      <th scope="col">LastUpdate</th>
+    </tr>
+  </thead>
+  <tbody>
+{% set count = namespace(value=0) %}
+  {% for provider in providers %}
+    <tr>
+      <th scope="row">{{ count.value }}</th>
+
+  {% set count.value = count.value + 1 %}
+      <td>{{ provider.provider }}</td>
+      <td>{{ provider.count }}</td>
+      <td>{{ provider.last }}</td>
+    </tr>
+
+
+
+
+{% endfor %}
+  </tbody>
+</table>
+{% endblock %}
