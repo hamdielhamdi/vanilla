@@ -19,4 +19,4 @@ def run():
         task = Thread(target=process, args=(provider,))
         task.start()
 
-
+run()

@@ -2,32 +2,44 @@
 
 {% block content %}
 
+<br>
 <div class="container">
-       <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Providers</th>
-      <th scope="col">ItemCount</th>
-      <th scope="col">LastUpdate</th>
-    </tr>
-  </thead>
-  <tbody>
-{% set count = namespace(value=0) %}
-  {% for provider in providers %}
-    <tr>
-      <th scope="row">{{ count.value }}</th>
+    <h2>Description</h2>
+    <p>the table below presents the list of databases currently available grouped by provider.
+        <small>(to see what are the future database or to propose a new
+            database, go to <a href="#"> add this </a>).
+        </small>
+    </p>
+</div>
+<div class="container">
+    <div class="col-8">
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Providers</th>
+                <th scope="col">ItemCount</th>
+                <th scope="col">LastUpdate</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% set count = namespace(value=0) %}
+            {% for provider in providers %}
+            <tr>
+                <th scope="row">{{ count.value }}</th>
 
-  {% set count.value = count.value + 1 %}
-      <td>{{ provider.provider }}</td>
-      <td>{{ provider.count }}</td>
-      <td>{{ provider.last }}</td>
-    </tr>
+                {% set count.value = count.value + 1 %}
+                <td><a href="{{ url_for('providerdetails', section=provider.provider) }}">{{ provider.provider }}</a>
+                </td>
+
+                <td>{{ provider.count }}</td>
+                <td>{{ provider.last }}</td>
+            </tr>
 
 
+            {% endfor %}
+            </tbody>
+        </table>
 
-
-{% endfor %}
-  </tbody>
-</table>
-{% endblock %}
+    </div>
+    {% endblock %}

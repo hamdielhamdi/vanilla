@@ -15,6 +15,7 @@ def insert(db, post_data):
 def get_all(db):
     return db.posts.find()
 
+
 def get(db, provider):
     """
     get the existing document
