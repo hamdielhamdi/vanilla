@@ -1,5 +1,5 @@
 from threading import Thread
-
+import time
 
 from db.database import increment_data
 from providers import mosaiquefm, nesmatv, jawhrafm, sub_mosaiquefm, bebnet
@@ -19,4 +19,9 @@ def run():
         task = Thread(target=process, args=(provider,))
         task.start()
 
-run()
+def start_extraction():
+    while True:
+        run()
+        time.sleep(1300)
+
+start_extraction()

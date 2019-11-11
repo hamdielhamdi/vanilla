@@ -2,11 +2,16 @@
 
 {% block content %}
 <div class="container">
-    <div class="col-8">
+    <br>
+    <h4>{{ title }} detail's database</h4>
+    <p>Metadata: {{ keys }}</p>
+</div>
+<div class="container">
+    <div>
         <table class="table">
             <thead>
             <tr>
-                <th scope="col">#</th>
+
                 {% for key in keys %}
                 <th scope="col">{{ key }}</th>
                 {% endfor %}
@@ -14,26 +19,27 @@
             </thead>
             <tbody>
 
-            {% set count = namespace(value=0) %}
+            <!--{% set count = namespace(value=0) %}-->
             {% for ex in data %}
             <tr>
-                <th scope="row">{{ count.value }}</th>
+                <!--<th scope="row">{{ count.value }}</th>-->
 
-                {% set count.value = count.value + 1 %}
+                <!--{% set count.value = count.value + 1 %}-->
 
                 {% for i in ex %}
-                <td>{{ ex[i] }}</td>
-
+                {% if i not in '_id' %}
+                <td>
+                    <div>{{ ex[i]| string | truncate(40) }}</div>
+                </td>
+                {% else %}
+                <td>
+                    <div>{{ ex[i] }}</div>
+                </td>
+                {% endif %}
                 {% endfor %}
             </tr>
-
-
             {% endfor %}
-
             </tbody>
         </table>
-
     </div>
-
-
-{% endblock %}
+    {% endblock %}

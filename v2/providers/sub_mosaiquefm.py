@@ -51,4 +51,4 @@ def calling_method():
     list_posts = list()
     return create_json_poyload(list_posts)
 
-calling_method()
+
