@@ -1,45 +1,55 @@
 {% extends "layout.html" %}
 
 {% block content %}
+
 <div class="container">
-    <br>
-    <h4>{{ title }} detail's database</h4>
-    <p>Metadata: {{ keys }}</p>
-</div>
-<div class="container">
-    <div>
-        <table class="table">
-            <thead>
-            <tr>
+    <div class="row">
+        <div class="col-12">
+            <br>
+            <h4>{{ title }} database metadata and sample</h4>
 
-                {% for key in keys %}
-                <th scope="col">{{ key }}</th>
-                {% endfor %}
-            </tr>
-            </thead>
-            <tbody>
-
-            <!--{% set count = namespace(value=0) %}-->
-            {% for ex in data %}
-            <tr>
-                <!--<th scope="row">{{ count.value }}</th>-->
-
-                <!--{% set count.value = count.value + 1 %}-->
-
-                {% for i in ex %}
-                {% if i not in '_id' %}
-                <td>
-                    <div>{{ ex[i]| string | truncate(40) }}</div>
-                </td>
-                {% else %}
-                <td>
-                    <div>{{ ex[i] }}</div>
-                </td>
-                {% endif %}
-                {% endfor %}
-            </tr>
-            {% endfor %}
-            </tbody>
-        </table>
+            <h6>Metadata description</h6>
+        </div>
     </div>
-    {% endblock %}
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <div data-spy="scroll" data-target="#myScrollspy" data-offset="50"
+                     style="height:200px;overflow-y: scroll;padding:5px; border: 1px solid #ccc;">
+                    <nav id="myScrollspy">
+                        <ul class="nav nav-pills flex-column">
+
+                            {% for k in meta %}
+                            <li class="nav-item"><a class="list-group-item list-group-item-action" href="#{{ k }}">{{ k
+                                }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-8">
+                <div data-spy="scroll" data-target="#myScrollspy" data-offset="50"
+                     style="height:200px;overflow-y: scroll;padding:5px; border: 1px solid #ccc;">
+                    {% for k in meta %}
+                    <h4 id="{{ k }}">{{ k }}</h4>
+                    <p>{{ meta[k] }}</p>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="container">
+    <hr>
+    <h4>The list of provider can be fetched using the following endpoint</h4>
+    <h5>provider list</h5>
+
+    <h4>Data can be fetched using the following endpoint</h4>
+    <h5>by provider</h5>
+    <h5>by date interval</h5>
+
+
+</div>
+
+
+</div>
+{% endblock %}

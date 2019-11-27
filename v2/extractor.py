@@ -22,6 +22,6 @@ def run():
 def start_extraction():
     while True:
         run()
-        time.sleep(1300)
-
+        time.sleep(500)
+        print("Batch started")
 start_extraction()

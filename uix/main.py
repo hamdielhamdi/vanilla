@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request
-from vanilla.v2.db.database import get,connect
-import vanilla.uix._ as tools
+import vanilla.uix.tasks
 import json
 
 app = Flask(__name__)
@@ -11,22 +10,24 @@ def home():
     return render_template('home.html', title='home'), 200
 
 
-
 @app.route('/db_')
 def db_():
-    providers = tools.providers()
+    with open('metadata_db.json', 'r') as f:
+        providers = json.load(f)
     return render_template('db.html', providers=providers, title='database'), 200
 
 
 @app.route("/providerdetails/<section>")
 def providerdetails(section):
     section = request.view_args['section']
-    data = get(connect('localhost',27017),section)
-    metadata = []
-    for i in data:
-        metadata.append(i.keys())
+    with open('descript_data.json') as f:
+        meta = json.load(f)
+    if section == 'facebook':
+        meta = meta['facebook']
+    else:
+        meta = meta['webpage']
+    return render_template('providerdetails.html', title=section, meta=meta)
 
-    return render_template('providerdetails.html',data=data[0:5], title=section, keys=list(metadata[0]))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=8080, host='0.0.0.0')

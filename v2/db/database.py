@@ -1,15 +1,21 @@
 from pymongo import MongoClient
 
+import json
+with open('config.json') as f:
+    config = json.load(f)
 
 def connect(host, port):
-    client = MongoClient(host, port)
-    db = client['prod_db_news']
+    client = MongoClient(config['db_url'])
+    db = client['prod_db']
     return db
+
 
 
 def insert(db, post_data):
     posts = db.posts
     result = posts.insert_one(post_data)
+
+
 
 
 def get_all(db):

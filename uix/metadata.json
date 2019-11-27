@@ -1,0 +1,22 @@
+{
+  "facebook": {
+    "date": "post creation date, it's date format as YYYY/MM/DD hh:mm",
+    "post": "content of the post",
+    "post_comment": "number of comment on this post, this indicate how many time the post was commented",
+    "post_partage": "number of time the post was shared, this number indicate how many time the post was shared",
+    "post_rct_like": "number of likes, this number indicate the quantity of positive sentiment",
+    "post_happy": "number of happy reaction, this number indicate the quantity of positive sentiment",
+    "post_anger": "number of anger reaction, this number indicate the quantity of negative sentiment",
+    "post_triste": "number of sad reaction, this number indicate the quantity of negative sentiment",
+    "post_love": "number of love reaction, this number indicate the quantity of positive sentiment",
+    "post_wow": "number of wow reaction, this number indicate the quantity of positive sentiment",
+    "provider": "data provider, usually is the name of the website."
+  },
+  "webpage":{
+    "title":"title of the post, can be used as doc identifier (like ID), it's unique ny provider",
+"date":"post date like 2019/11/22 23:42, it's date format as YYYY/MM/DD hh:mm",
+"post":"content of the post, text that explore the title",
+"provider":"data provider, usually is the name of the website.",
+"extent":"this value can be n/r , n stand for national news and r for regional news"
+  }
+}
